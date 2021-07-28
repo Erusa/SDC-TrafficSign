@@ -1,4 +1,4 @@
-# SDC-TrafficSign_Classifier
+# SDC-TrafficSig
 
 My own Project from SDC Udacity Course (Project 3). This code can classify traffic signs
 
